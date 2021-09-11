@@ -11428,6 +11428,7 @@ html {
 }
 .masthead .masthead-subheading {
   font-size: 1.25rem;
+  font-style: italic;
 }
 .masthead .masthead-avatar {
   width: 15rem;
